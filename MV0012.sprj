@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+<<<<<<< HEAD:MV0012.sprj
+  <transcriptionFont>Monlam Uni OuChan5, 14.25, Regular</transcriptionFont>
+=======
+  <transcriptionFont />
+>>>>>>> 3f49ffe1378691d929e1165bf6e9d8ab1538d76f:MV0012/MV0012.sprj
+  <freeTranslationFont>Sitka Heading, 21.75, Regular</freeTranslationFont>
+  <AutoSegmentersettings minSegmentLength="0" maxSegmentLength="0" preferrerdPauseLength="0" optimumLengthClampingFactor="0" />
+  <Title>MV0012</Title>
+  <FundingProjectTitle />
+  <ProjectDescription />
+  <VernacularISO3CodeAndName />
+  <AnalysisISO3CodeAndName />
+  <Location />
+  <Region />
+  <Country>Unspecified</Country>
+  <Continent>Unspecified</Continent>
+  <ContactPerson />
+  <AccessProtocol />
+  <DateAvailable />
+  <RightsHolder />
+  <Depositor />
+  <IMDIOutputDirectory />
+</Project>
