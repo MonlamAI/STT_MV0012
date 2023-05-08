@@ -1,15 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<<<<<<< HEAD:Sessions/videoplayback (1)/videoplayback (1).session
 <Session>
   <genre type="string">&lt;Unknown&gt;</genre>
   <date type="string">2023-04-25</date>
   <status type="string">Incoming</status>
-=======
-<Session version="2.0">
-  <genre type="string">&lt;Unknown&gt;</genre>
-  <date type="string">2023-04-25</date>
-  <status type="string">Incoming</status>
-  <participants type="string"></participants>
-  <contributions type="xml" />
->>>>>>> 3f49ffe1378691d929e1165bf6e9d8ab1538d76f:MV0012/Sessions/videoplayback (1)/videoplayback (1).session
 </Session>
